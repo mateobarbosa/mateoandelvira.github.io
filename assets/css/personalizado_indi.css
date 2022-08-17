@@ -1,0 +1,74 @@
+
+.vs{
+  content: "teste";
+
+}
+
+  #fundo{
+   /* background-image: linear-gradient(45deg, #3198E2, #6D59C0, #B93590, #E33F5F, #FDD579); */
+   background-color: #ECF5EA; /*#E8F5E7  #EFFFE5 #ECF5EA */
+    background-attachment: fixed;
+  }
+
+    #titulo{
+  /*  font-family: 'Rubik Moonrocks', cursive;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Staatliches', cursive;
+  font-family: 'Stoke', serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Potta One', cursive;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Permanent Marker', cursive;*/
+  font-family: 'Fredoka One', cursive;
+    font-size: 80px;
+  }
+
+      #titulo2{
+  /*  font-family: 'Rubik Moonrocks', cursive;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Staatliches', cursive;
+  font-family: 'Stoke', serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Potta One', cursive;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Permanent Marker', cursive;*/
+  font-family: 'Fredoka One', cursive;
+    font-size: 70px;
+  }
+
+      #subtitulo{
+  /*  font-family: 'Rubik Moonrocks', cursive;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Staatliches', cursive;
+  font-family: 'Stoke', serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Potta One', cursive;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Permanent Marker', cursive;*/
+  font-family: 'Fredoka One', cursive;
+    font-size: 40px;
+  }
+  #titulo3{
+
+  font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+  }
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Fjalla+One&family=Fredoka+One&family=Indie+Flower&family=Josefin+Sans:ital,wght@1,600&family=Lobster&family=Oswald:wght@200&family=Pacifico&family=Permanent+Marker&family=Potta+One&family=Rubik+Moonrocks&family=Secular+One&family=Stoke&display=swap');
